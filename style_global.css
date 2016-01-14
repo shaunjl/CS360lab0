@@ -8,7 +8,7 @@ body {
 	background-size: 100%;
 }
 
-input, textarea{
+.city {
     background-color: #ccccff;
     color: #001933;
 }
