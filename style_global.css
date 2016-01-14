@@ -5,10 +5,8 @@ h1 {
 
 body {
 	background: url('img/mountain.jpg');
-	background-size: 100%;
-	background-repeat: no-repeat;
-	background-position: center;
 	background-color: gray;
+	background-size: 100%;
 }
 
 
