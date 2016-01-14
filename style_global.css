@@ -6,10 +6,3 @@ h1 {
     color: navy;
     margin-left: 20px;
 }
-
-.navbar-nav > li > a, .navbar-brand {
-    padding-top:4px !important; 
-    padding-bottom:0 !important;
-    height: 28px;
-}
-.navbar {min-height:28px !important;}
