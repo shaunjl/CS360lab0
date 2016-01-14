@@ -1,8 +1,8 @@
-body {
-    backgroun-color: lightblue;
+h1 {
+    color: #001933;
+    margin-left: 20px;
 }
 
-h1 {
-    color: navy;
-    margin-left: 20px;
+body {
+	background: url('img/mountain.jpg');
 }
